@@ -1,9 +1,9 @@
-import Search from './models/search';
+import Search from './models/Search';
 import * as searchView from './views/searchView';
 import * as recipeView from './views/recipeView';
 import Recipe from './models/Recipe';
 import List from './models/list';
-import Likes from './models/likes';
+import Likes from './models/Likes';
 import * as listView from './views/listView';
 import * as likesView from './views/likesView';
 import {elements, renderLoader, clearLoader} from './views/base';
