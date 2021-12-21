@@ -166,7 +166,7 @@ const controlRecipe = async() =>{
             currentID,
             state.recipe.title,
             state.recipe.author,
-            state.recipe.img,
+            state.recipe.img
         );
 
         //Toggle the like button
